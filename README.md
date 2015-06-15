@@ -30,5 +30,7 @@ you will get ip of dns, remember it
 
 **Run datanode with dns server on CoreOS DataNOde**
 
+cd hd/namenode
+
 ```sh run_datanode.sh ip_Of_dns_server```
 
